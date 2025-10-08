@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Node.js Intro",
+    "text": "Node.js is a runtime for executing JavaScript on the server side."
+  },
+  {
+    "id": 2,
+    "title": "Transformers.js",
+    "text": "The @xenova/transformers library runs transformer models directly in the browser or Node.js."
+  },
+  {
+    "id": 3,
+    "title": "RAG Concept",
+    "text": "RAG stands for Retrieval-Augmented Generation, combining retrieval with generation."
+  }
+]
